@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidly
-- 👀 I’m interested in photography, music, coding, and combinations of these
+- 👀 I’m interested in photography, music, coding, and combinations of these.
 - 🌱 I’m currently learning D2D and Go. But not in combination.
 
 <!---
