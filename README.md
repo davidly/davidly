@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidly
 - 👀 I’m interested in photography, music, coding, and combinations of these.
-- 🌱 I’m currently learning how to write and optimize a compiler that targets x64, arm64, x86, arm32, 8086, 8080, and 6502.
+- 🌱 I’m currently working on emulators. 6502 + Apple 1, 8080/Z80 + CP/M 2.2, and 8086 + DOS are about done. Risc V is next.
 
 The repos found here are apps I built for my own use and amusement. 
 
