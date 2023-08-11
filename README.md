@@ -5,4 +5,4 @@
 
 The repos found here are apps I built for my own use and amusement. I code when I need a tool or am curious about something.
 
-All of the code is free available for use as you like.
+All of the code is freely available for use as you like.
